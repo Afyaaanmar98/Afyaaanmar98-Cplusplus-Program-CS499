@@ -1,12 +1,30 @@
 # Afyaaanmar98-Cplusplus-Program-CS499
-Software Engineering & Design Artifact
+# Afyaa – CS 499 Computer Science ePortfolio
 
-The artifact I selected for this category is the Appointment Management System that I originally developed during CS-320. This system allows users to create, update, retrieve, and delete appointment records while enforcing constraints such as valid future dates and proper descriptions.
+## Overview
+This ePortfolio showcases my skills and growth throughout the Computer Science program in software engineering, algorithms, and databases.
 
-I chose this artifact because it demonstrates key software engineering principles such as object-oriented design, modular structure, and input validation. The system is divided into classes, including the Appointment class and AppointmentService class, which helps organize the code and improve maintainability.
 
-For the enhancement, I improved the overall structure of the code and added stronger validation and error handling. I ensured that invalid data, such as past dates or empty descriptions, is handled properly using exceptions. I also improved readability by organizing methods clearly and using meaningful naming conventions.
+## Professional Self-Assessment
+I developed strong skills in software development, data structures, and database systems. My enhancements demonstrate my ability to improve code quality, optimize performance, and design structured data systems.
 
-These improvements demonstrate my ability to analyze existing code and enhance it using software engineering best practices. The project shows my understanding of clean code, modular design, and defensive programming. It also reflects my ability to develop software that is reliable, maintainable, and aligned with industry standards.
 
-This artifact supports several course outcomes, including designing and evaluating computing solutions, applying appropriate software development techniques, and developing a security mindset by validating inputs and preventing invalid data from being processed.
+## Artifacts
+
+### Software Engineering & Design
+- Appointment Management System
+- Improved validation, structure, and error handling
+
+### Algorithms & Data Structures
+- Replaced ArrayList with HashMap
+- Improved performance from O(n) to O(1)
+
+### Databases
+- SQL database design with constraints and queries
+
+
+## Code Review Video
+https://drive.google.com/file/d/1MX1xOpTcQ2OECvgDHMlPxyYFq4LwHsaN/view?usp=drive_link
+
+
+
